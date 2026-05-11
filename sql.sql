@@ -1,2 +1,1 @@
-create or replace table gittable(id number);
-insert into gittable(12);
+insert into table gittable(12);
