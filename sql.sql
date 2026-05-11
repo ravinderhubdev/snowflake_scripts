@@ -1,1 +1,1 @@
-insert into table gittable(12);
+insert into  gittable values(122);
